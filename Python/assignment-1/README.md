@@ -1,6 +1,6 @@
 # Tutedude
 
-This git hub branch Python/assignment-1 has two python modules:
+This git hub folder Python/assignment-1 has two python modules:
 
 ## task_1.py
 This takes two input values, which then converts the type from string to int and then does the following operations:
